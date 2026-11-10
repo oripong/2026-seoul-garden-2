@@ -1,0 +1,10 @@
+{
+  "description": "A responsive website that presents the provided design with working navigation, image slideshows, pop-ups, and mobile menus across desktop, tablet, and mobile.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
